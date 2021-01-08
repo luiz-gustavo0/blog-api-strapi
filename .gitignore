@@ -1,5 +1,4 @@
 package-lock.json
-yarn.lock
 
 ############################
 # OS X
@@ -116,4 +115,3 @@ exports
 build
 .strapi-updater.json
 
-docker-compose.yml
